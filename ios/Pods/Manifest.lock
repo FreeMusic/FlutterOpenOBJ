@@ -1,0 +1,83 @@
+PODS:
+  - amap_base_location (0.1.8):
+    - AMapLocation
+    - Flutter
+    - MJExtension
+  - AMapFoundation (1.5.7)
+  - AMapLocation (2.6.3):
+    - AMapFoundation (~> 1.4)
+  - Flutter (1.0.0)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - image_cropper (0.0.1):
+    - Flutter
+    - TOCropViewController (~> 2.5.0)
+  - image_picker (0.0.1):
+    - Flutter
+  - MJExtension (3.1.1)
+  - path_provider (0.0.1):
+    - Flutter
+  - permission_handler (3.2.2):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - sqflite (0.0.1):
+    - Flutter
+    - FMDB (~> 2.7.2)
+  - TOCropViewController (2.5.1)
+
+DEPENDENCIES:
+  - amap_base_location (from `.symlinks/plugins/amap_base_location/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+  - image_cropper (from `.symlinks/plugins/image_cropper/ios`)
+  - image_picker (from `.symlinks/plugins/image_picker/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AMapFoundation
+    - AMapLocation
+    - FMDB
+    - MJExtension
+    - TOCropViewController
+
+EXTERNAL SOURCES:
+  amap_base_location:
+    :path: ".symlinks/plugins/amap_base_location/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  image_cropper:
+    :path: ".symlinks/plugins/image_cropper/ios"
+  image_picker:
+    :path: ".symlinks/plugins/image_picker/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+
+SPEC CHECKSUMS:
+  amap_base_location: 08cb8b63d2bf8c85a22ae02a623c32d0ec4836c7
+  AMapFoundation: 216d58448c80356434ac4332250a8fdb2f5c4d1e
+  AMapLocation: dc2c4fde95d72087d73934338160fadc72104bb7
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  image_cropper: e0a40e80b2107490926d0f15e3b42f44867c15b4
+  image_picker: 86b84c4fe89267356a1f17297a45b5d317ebd2e7
+  MJExtension: dfef9855ee178e1ce67f3e03b71ca4226330d87d
+  path_provider: 09407919825bfe3c2deae39453b7a5b44f467873
+  permission_handler: 4fe3594be762fe6051f294f81d6f629027f5f387
+  shared_preferences: 5a1d487c427ee18fcd3ea1f2a131569481834b53
+  sqflite: d1612813fa7db7c667bed9f1d1b508deffc56999
+  TOCropViewController: 00dc36c4e4a0f4a45efa91adbf22df8a4fae01d3
+
+PODFILE CHECKSUM: e8988baac3a50f787b9d3ed7ca44957b442f92a7
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/6491d460dee2134bfeb2ea547f7da335/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/6491d460dee2134bfeb2ea547f7da335/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/6491d460dee2134bfeb2ea547f7da335/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/6491d460dee2134bfeb2ea547f7da335/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/ed21b66d8d49e697ca8a53009df6563e/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/6491d460dee2134bfeb2ea547f7da335/res/drawable-v21/abc_dialog_material_background.xml"
+    }
+]

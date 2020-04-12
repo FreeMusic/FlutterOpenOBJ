@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:2:3-38
+		INJECTED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:11:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:13:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:19:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:21:22-65
+application
+ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:23:5-25:19
+service#com.amap.api.location.APSService
+ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:24:9-67
+	android:name
+		ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml:24:18-65
+uses-sdk
+INJECTED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/android/src/main/AndroidManifest.xml

@@ -1,0 +1,295 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:1:1-66:12
+INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:1:1-66:12
+INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:1:1-66:12
+INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:1:1-66:12
+MERGED from [:image_cropper] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_cropper/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/shared_preferences/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/permission_handler/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-30:12
+MERGED from [:sqflite] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/sqflite/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-22:12
+MERGED from [:path_provider] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/path_provider/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.yalantis:ucrop:2.2.3] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/jetified-ucrop-2.2.3.aar/60f2dd75503cdfc62f390545d6581707/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/b5b4e86d1768e13aa5251f4d8b74d6ee/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/cfb09e9ca34a34475181a299701cbc96/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/279ef723c238727c9956bdd6d0e00ee6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-rc01.aar/491d9e6e01c64c5dd26106ad7182ca42/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/272e984d4b9069ca7b334f9e7c40a6b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/5fbb08a03f841a99ba57ba2265ef0078/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/a7cd8f11820aecac7e1929fb7451c46a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-rc01.aar/d8edaebbe32cb2393861690bc3545749/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-rc01.aar/313c6d161156ed422ba02a8692ec0666/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/3780eec69bdfbffc834ba67ba1ae9eef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/df337531d4c87b5ce20c7d011ffbcaea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/1a23f9227c104dcf399fbc0d33b67f69/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/0119f60db083ba4d35ca0dd396aed2c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/d11f73a1a3f160fbf2d1948e515c3fcd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/cd8586dcd4db93b404ed1127cd0f01ec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/6acddba8b7f29a469d6cd6220d59ec94/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/74abe3d86e7f079fe2bd4823a809a088/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3404b5e2340f0922d1e72a9042d52e3e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0-rc01.aar/76056ad559abc422b7c8e9d906b15753/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/238a54ff1f404e7802d9744ef219b160/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/b896103b77ecd267188de013ab31a789/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/ce9581e34b1130db47de228845e05e1b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-rc01.aar/88309acaf04ea1529b8369ab45bb4da3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/25050c74a676a591cde00d325573c544/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/1bb2dbe97cbf32e0e4834bb9e53a44a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/2bd78b4a8226597a1939a8196cf52fb5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/f1ca2ff21f22baf33375c27d73b08669/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/c812b5191c64c2d1ea743fdefe6dc5d8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/1d9483953ebc977ea6b2051e65dc062f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/8c9c2344a536752ddc5182c37ca1d08a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:1:1-66:12
+INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:1:1-66:12
+INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:1:1-66:12
+	package
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:2:5-49
+		INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:1:1-66:12
+		INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:1:1-66:12
+		INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:10:5-67
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:5-67
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:12:5-81
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:10:5-81
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:10:5-81
+MERGED from [:image_picker] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:5-81
+MERGED from [:image_picker] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:14:5-79
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:12:5-79
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:16:5-76
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:14:5-76
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:18:5-75
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:16:5-75
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:18:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:20:5-81
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:18:5-81
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:22:5-79
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:20:5-79
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:24:5-76
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:22:5-76
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:22:5-76
+	android:name
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:24:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:26:5-68
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:24:5-68
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:26:22-65
+application
+ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:32:5-65:19
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:26:5-28:19
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:26:5-28:19
+MERGED from [:image_picker] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:10:5-20:19
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/b5b4e86d1768e13aa5251f4d8b74d6ee/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/b5b4e86d1768e13aa5251f4d8b74d6ee/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.2] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3404b5e2340f0922d1e72a9042d52e3e/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3404b5e2340f0922d1e72a9042d52e3e/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/238a54ff1f404e7802d9744ef219b160/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/238a54ff1f404e7802d9744ef219b160/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3404b5e2340f0922d1e72a9042d52e3e/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:35:9-28
+	android:icon
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:34:9-56
+	android:name
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:33:9-57
+activity#com.chenji.flutter_chenji_ista_app.MainActivity
+ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:36:9-55:20
+	android:launchMode
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:40:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:39:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:42:13-55
+	android:configChanges
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:38:13-144
+	android:theme
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:41:13-47
+	android:name
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:37:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:47:13-49:40
+	android:value
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:49:17-37
+	android:name
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:48:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:50:13-53:29
+action#android.intent.action.MAIN
+ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:52:27-74
+meta-data#com.amap.api.v2.apikey
+ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:57:9-59:74
+	android:value
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:59:13-61
+	android:name
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:58:13-50
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:61:9-64:72
+	android:screenOrientation
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:63:13-49
+	android:theme
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:64:13-69
+	android:name
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:62:13-60
+uses-sdk
+INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml
+MERGED from [:image_cropper] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_cropper/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_cropper/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/shared_preferences/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/shared_preferences/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/permission_handler/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/permission_handler/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/sqflite/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/sqflite/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/path_provider/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/path_provider/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.github.yalantis:ucrop:2.2.3] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/jetified-ucrop-2.2.3.aar/60f2dd75503cdfc62f390545d6581707/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.3] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/jetified-ucrop-2.2.3.aar/60f2dd75503cdfc62f390545d6581707/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/b5b4e86d1768e13aa5251f4d8b74d6ee/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/b5b4e86d1768e13aa5251f4d8b74d6ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/cfb09e9ca34a34475181a299701cbc96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/cfb09e9ca34a34475181a299701cbc96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/279ef723c238727c9956bdd6d0e00ee6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/279ef723c238727c9956bdd6d0e00ee6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-rc01.aar/491d9e6e01c64c5dd26106ad7182ca42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-rc01.aar/491d9e6e01c64c5dd26106ad7182ca42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/272e984d4b9069ca7b334f9e7c40a6b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/272e984d4b9069ca7b334f9e7c40a6b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/5fbb08a03f841a99ba57ba2265ef0078/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/5fbb08a03f841a99ba57ba2265ef0078/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/a7cd8f11820aecac7e1929fb7451c46a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/a7cd8f11820aecac7e1929fb7451c46a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-rc01.aar/d8edaebbe32cb2393861690bc3545749/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-rc01.aar/d8edaebbe32cb2393861690bc3545749/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-rc01.aar/313c6d161156ed422ba02a8692ec0666/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-rc01.aar/313c6d161156ed422ba02a8692ec0666/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/3780eec69bdfbffc834ba67ba1ae9eef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/3780eec69bdfbffc834ba67ba1ae9eef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/df337531d4c87b5ce20c7d011ffbcaea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/df337531d4c87b5ce20c7d011ffbcaea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/1a23f9227c104dcf399fbc0d33b67f69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/1a23f9227c104dcf399fbc0d33b67f69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/0119f60db083ba4d35ca0dd396aed2c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/0119f60db083ba4d35ca0dd396aed2c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/d11f73a1a3f160fbf2d1948e515c3fcd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/d11f73a1a3f160fbf2d1948e515c3fcd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/cd8586dcd4db93b404ed1127cd0f01ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/cd8586dcd4db93b404ed1127cd0f01ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/6acddba8b7f29a469d6cd6220d59ec94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/6acddba8b7f29a469d6cd6220d59ec94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/74abe3d86e7f079fe2bd4823a809a088/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/74abe3d86e7f079fe2bd4823a809a088/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3404b5e2340f0922d1e72a9042d52e3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3404b5e2340f0922d1e72a9042d52e3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0-rc01.aar/76056ad559abc422b7c8e9d906b15753/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0-rc01.aar/76056ad559abc422b7c8e9d906b15753/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/238a54ff1f404e7802d9744ef219b160/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/238a54ff1f404e7802d9744ef219b160/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/b896103b77ecd267188de013ab31a789/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/b896103b77ecd267188de013ab31a789/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/ce9581e34b1130db47de228845e05e1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/ce9581e34b1130db47de228845e05e1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-rc01.aar/88309acaf04ea1529b8369ab45bb4da3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-rc01.aar/88309acaf04ea1529b8369ab45bb4da3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/25050c74a676a591cde00d325573c544/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/25050c74a676a591cde00d325573c544/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/1bb2dbe97cbf32e0e4834bb9e53a44a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/1bb2dbe97cbf32e0e4834bb9e53a44a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/2bd78b4a8226597a1939a8196cf52fb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/2bd78b4a8226597a1939a8196cf52fb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/f1ca2ff21f22baf33375c27d73b08669/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/f1ca2ff21f22baf33375c27d73b08669/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/c812b5191c64c2d1ea743fdefe6dc5d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/c812b5191c64c2d1ea743fdefe6dc5d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/1d9483953ebc977ea6b2051e65dc062f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/1d9483953ebc977ea6b2051e65dc062f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/8c9c2344a536752ddc5182c37ca1d08a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/sunxiaoyang/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/8c9c2344a536752ddc5182c37ca1d08a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml
+service#com.amap.api.location.APSService
+ADDED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:27:9-68
+	android:name
+		ADDED from [:amap_base_location] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/amap_base_location/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:27:18-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/android/app/src/main/AndroidManifest.xml:1:1-66:12 reason: me.yohom.amapbaselocation requested WRITE_EXTERNAL_STORAGE
+MERGED from [:image_picker] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-80
+MERGED from [:image_picker] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-80
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /Users/sunxiaoyang/Desktop/Flutter/flutter_chenji_ista_app/build/image_picker/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:17:17-67
