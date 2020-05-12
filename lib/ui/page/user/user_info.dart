@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:dio/dio.dart';
+//import 'package:dio/dio.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
@@ -1085,26 +1085,26 @@ class _UserInfoPageState extends BaseWidgetState<UserInfoPage> {
     String path = image.path;
     var name = path.substring(path.lastIndexOf("/") + 1, path.length);
     var suffix = name.substring(name.lastIndexOf(".") + 1, name.length);
-    FormData formData = new FormData.from({
-      "_token": SpUtil.getString(Constant.keyUserToken),
-      "file": new UploadFileInfo(new File(path), name,
-          contentType: ContentType.parse("image/$suffix"))
-    });
-
-    NetWork.getInstans().qiNiuUpload(formData, (UploadImage model) {
-      LogUtil.e("=======>>>  " + model.toString());
-      if (model.code == 0) {
-        setState(() {
-          SpUtil.putString(Constant.userlogoUrl, model.data);
-          userlogoUrl = SpUtil.getString(Constant.userlogoUrl);
-          LogUtil.e("返回的头像 地址  =======>>>  $userlogoUrl");
-        });
-      } else {
-        showToast(model.msg);
-      }
-    }, (error) {
-      showToast(error);
-    });
+//    FormData formData = new FormData.from({
+//      "_token": SpUtil.getString(Constant.keyUserToken),
+//      "file": new UploadFileInfo(new File(path), name,
+//          contentType: ContentType.parse("image/$suffix"))
+//    });
+//
+//    NetWork.getInstans().qiNiuUpload(formData, (UploadImage model) {
+//      LogUtil.e("=======>>>  " + model.toString());
+//      if (model.code == 0) {
+//        setState(() {
+//          SpUtil.putString(Constant.userlogoUrl, model.data);
+//          userlogoUrl = SpUtil.getString(Constant.userlogoUrl);
+//          LogUtil.e("返回的头像 地址  =======>>>  $userlogoUrl");
+//        });
+//      } else {
+//        showToast(model.msg);
+//      }
+//    }, (error) {
+//      showToast(error);
+//    });
   }
 
   void _postUserInfo() {
@@ -1149,15 +1149,15 @@ class _UserInfoPageState extends BaseWidgetState<UserInfoPage> {
       "jobMother":_motherJobStr,
     };
 
-    NetWork.getInstans().updateUsers(params, (BaseModel model) {
-      LogUtil.e("=======>>>  " + model.toString());
-      if (model.code == 0) {
-
-      } else {
-        showToast(model.msg);
-      }
-    }, (error) {
-      showToast(error);
-    });
+//    NetWork.getInstans().updateUsers(params, (BaseModel model) {
+//      LogUtil.e("=======>>>  " + model.toString());
+//      if (model.code == 0) {
+//
+//      } else {
+//        showToast(model.msg);
+//      }
+//    }, (error) {
+//      showToast(error);
+//    });
   }
 }

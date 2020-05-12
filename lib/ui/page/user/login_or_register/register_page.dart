@@ -148,15 +148,15 @@ class _RegisterPageState extends BaseWidgetState<RegisterPage> {
                         "captcha": captchaCode,
                         "uuid": SpUtil.getString(Constant.uuidimageUrl),
                       };
-                      NetWork.getInstans().registerUsers(params, (RegisterModel model) {
-                        if (model.code == 0) {
-                          gotoLogin(userPhone, userPwd);
-                        } else {
-                          showToast(model.msg);
-                        }
-                      }, (error) {
-                        showToast(error.toString());
-                      });
+//                      NetWork.getInstans().registerUsers(params, (RegisterModel model) {
+//                        if (model.code == 0) {
+//                          gotoLogin(userPhone, userPwd);
+//                        } else {
+//                          showToast(model.msg);
+//                        }
+//                      }, (error) {
+//                        showToast(error.toString());
+//                      });
                     },
                     bgColor: isPwdlength_6_12
                         ? Colours.transparent
@@ -269,17 +269,17 @@ class _RegisterPageState extends BaseWidgetState<RegisterPage> {
                 "captcha": controllerImageCode.text.toString(),
                 "uuid": SpUtil.getString(Constant.uuidimageUrl),
               };
-              NetWork.getInstans().smsCaptchas(params, (BaseModel model) {
-                //成功
-                if (model.code == 0) {
-                  _doCountDown();
-                  Navigator.pop(context); //关闭对话框
-                } else {
-                  showToast(model.msg);
-                }
-              }, (error) {
-                showToast(error);
-              });
+//              NetWork.getInstans().smsCaptchas(params, (BaseModel model) {
+//                //成功
+//                if (model.code == 0) {
+//                  _doCountDown();
+//                  Navigator.pop(context); //关闭对话框
+//                } else {
+//                  showToast(model.msg);
+//                }
+//              }, (error) {
+//                showToast(error);
+//              });
             },
           );
         });
@@ -291,17 +291,17 @@ class _RegisterPageState extends BaseWidgetState<RegisterPage> {
       "username": userPhone,
       "password": userPwd,
     };
-    NetWork.getInstans().loginUsers(params, (LoginModel model) {
-      if (model.code == 0) {
-        //成功
-        startActFinish(TabMainNavigator());
-        SpUtil.putString(Constant.keyUserToken, model.data);
-        SpUtil.putBool(Constant.isLogin, true);
-      } else {
-        showToast(model.msg);
-      }
-    }, (error) {
-      showToast(error);
-    });
+//    NetWork.getInstans().loginUsers(params, (LoginModel model) {
+//      if (model.code == 0) {
+//        //成功
+//        startActFinish(TabMainNavigator());
+//        SpUtil.putString(Constant.keyUserToken, model.data);
+//        SpUtil.putBool(Constant.isLogin, true);
+//      } else {
+//        showToast(model.msg);
+//      }
+//    }, (error) {
+//      showToast(error);
+//    });
   }
 }

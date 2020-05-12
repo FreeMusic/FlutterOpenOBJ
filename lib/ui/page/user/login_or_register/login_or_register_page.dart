@@ -55,25 +55,25 @@ class _OrLoginPageState extends BaseWidgetState<OrLoginPage> {
       return;
     }
 
-    NetWork.getInstans().isRegisterUser(
-      userphone,
-      (LoginOrRegisterModel isRegisterEntity) {
-        SpUtil.putString(Constant.keyUserPhone, userphone);
-        print("=============>>>>>>>>>>>>>>>>=============>>>>>>>>>>>>>>>>" +
-            SpUtil.getString(Constant.keyUserPhone));
-//        startAct(LoginPage());
-//        startAct(RegisterPage());
-//        1已注册, 0未注册
-        if (isRegisterEntity.data == 1) {
-          startAct(LoginPage());
-        } else {
-          startAct(RegisterPage());
-        }
-      },
-      (error) {
-        showToast(error);
-      },
-    );
+//    NetWork.getInstans().isRegisterUser(
+//      userphone,
+//      (LoginOrRegisterModel isRegisterEntity) {
+//        SpUtil.putString(Constant.keyUserPhone, userphone);
+//        print("=============>>>>>>>>>>>>>>>>=============>>>>>>>>>>>>>>>>" +
+//            SpUtil.getString(Constant.keyUserPhone));
+////        startAct(LoginPage());
+////        startAct(RegisterPage());
+////        1已注册, 0未注册
+//        if (isRegisterEntity.data == 1) {
+//          startAct(LoginPage());
+//        } else {
+//          startAct(RegisterPage());
+//        }
+//      },
+//      (error) {
+//        showToast(error);
+//      },
+//    );
   }
 
   @override

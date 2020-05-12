@@ -1,7 +1,10 @@
-amap_base_location=/Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/amap_base_location-0.4.0+1/
-image_cropper=/Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.0.2/
-image_picker=/Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.1+4/
-path_provider=/Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/path_provider-1.3.0/
-permission_handler=/Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/permission_handler-3.2.2/
-shared_preferences=/Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.4.3/
-sqflite=/Users/sunxiaoyang/.pub-cache/hosted/pub.dartlang.org/sqflite-1.1.6+5/
+# This is a generated file; do not edit or check into version control.
+amap_base_location=/Users/tanyin/Desktop/flutter/.pub-cache/hosted/pub.flutter-io.cn/amap_base_location-0.4.0+2/
+flutter_plugin_android_lifecycle=/Users/tanyin/Desktop/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_plugin_android_lifecycle-1.0.7/
+image_cropper=/Users/tanyin/Desktop/flutter/.pub-cache/hosted/pub.flutter-io.cn/image_cropper-1.0.2/
+image_picker=/Users/tanyin/Desktop/flutter/.pub-cache/hosted/pub.flutter-io.cn/image_picker-0.6.6+1/
+path_provider=/Users/tanyin/Desktop/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider-1.6.7/
+path_provider_macos=/Users/tanyin/Desktop/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider_macos-0.0.4+2/
+permission_handler=/Users/tanyin/Desktop/flutter/.pub-cache/hosted/pub.flutter-io.cn/permission_handler-3.3.0/
+shared_preferences=/Users/tanyin/Desktop/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.4.3/
+sqflite=/Users/tanyin/Desktop/flutter/.pub-cache/hosted/pub.flutter-io.cn/sqflite-1.3.0+1/

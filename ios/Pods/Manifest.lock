@@ -7,6 +7,8 @@ PODS:
   - AMapLocation (2.6.3):
     - AMapFoundation (~> 1.4)
   - Flutter (1.0.0)
+  - flutter_plugin_android_lifecycle (0.0.1):
+    - Flutter
   - FMDB (2.7.5):
     - FMDB/standard (= 2.7.5)
   - FMDB/standard (2.7.5)
@@ -18,7 +20,9 @@ PODS:
   - MJExtension (3.1.1)
   - path_provider (0.0.1):
     - Flutter
-  - permission_handler (3.2.2):
+  - path_provider_macos (0.0.1):
+    - Flutter
+  - permission_handler (3.3.0):
     - Flutter
   - shared_preferences (0.0.1):
     - Flutter
@@ -29,16 +33,18 @@ PODS:
 
 DEPENDENCIES:
   - amap_base_location (from `.symlinks/plugins/amap_base_location/ios`)
-  - Flutter (from `.symlinks/flutter/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_plugin_android_lifecycle (from `.symlinks/plugins/flutter_plugin_android_lifecycle/ios`)
   - image_cropper (from `.symlinks/plugins/image_cropper/ios`)
   - image_picker (from `.symlinks/plugins/image_picker/ios`)
   - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - path_provider_macos (from `.symlinks/plugins/path_provider_macos/ios`)
   - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
   - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
   - sqflite (from `.symlinks/plugins/sqflite/ios`)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  trunk:
     - AMapFoundation
     - AMapLocation
     - FMDB
@@ -49,13 +55,17 @@ EXTERNAL SOURCES:
   amap_base_location:
     :path: ".symlinks/plugins/amap_base_location/ios"
   Flutter:
-    :path: ".symlinks/flutter/ios"
+    :path: Flutter
+  flutter_plugin_android_lifecycle:
+    :path: ".symlinks/plugins/flutter_plugin_android_lifecycle/ios"
   image_cropper:
     :path: ".symlinks/plugins/image_cropper/ios"
   image_picker:
     :path: ".symlinks/plugins/image_picker/ios"
   path_provider:
     :path: ".symlinks/plugins/path_provider/ios"
+  path_provider_macos:
+    :path: ".symlinks/plugins/path_provider_macos/ios"
   permission_handler:
     :path: ".symlinks/plugins/permission_handler/ios"
   shared_preferences:
@@ -64,20 +74,22 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/sqflite/ios"
 
 SPEC CHECKSUMS:
-  amap_base_location: 08cb8b63d2bf8c85a22ae02a623c32d0ec4836c7
+  amap_base_location: 755c35d1f37174a33351720d7dfd8bbe56ddc34d
   AMapFoundation: 216d58448c80356434ac4332250a8fdb2f5c4d1e
   AMapLocation: dc2c4fde95d72087d73934338160fadc72104bb7
-  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_plugin_android_lifecycle: dc0b544e129eebb77a6bfb1239d4d1c673a60a35
   FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
-  image_cropper: e0a40e80b2107490926d0f15e3b42f44867c15b4
-  image_picker: 86b84c4fe89267356a1f17297a45b5d317ebd2e7
+  image_cropper: f25bdfbf1ef970c9a0a0f78306fb6a0aaac7229e
+  image_picker: 66aa71bc96850a90590a35d4c4a2907b0d823109
   MJExtension: dfef9855ee178e1ce67f3e03b71ca4226330d87d
-  path_provider: 09407919825bfe3c2deae39453b7a5b44f467873
-  permission_handler: 4fe3594be762fe6051f294f81d6f629027f5f387
-  shared_preferences: 5a1d487c427ee18fcd3ea1f2a131569481834b53
-  sqflite: d1612813fa7db7c667bed9f1d1b508deffc56999
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  path_provider_macos: f760a3c5b04357c380e2fddb6f9db6f3015897e0
+  permission_handler: 67637977b227d62d46bfbf524f335f8568de5a73
+  shared_preferences: 1feebfa37bb57264736e16865e7ffae7fc99b523
+  sqflite: 4001a31ff81d210346b500c55b17f4d6c7589dd0
   TOCropViewController: 00dc36c4e4a0f4a45efa91adbf22df8a4fae01d3
 
-PODFILE CHECKSUM: e8988baac3a50f787b9d3ed7ca44957b442f92a7
+PODFILE CHECKSUM: f32fb4e7c14f8b3ca19a369d7be425dd9241af27
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.9.0

@@ -1,4 +1,4 @@
-import 'package:dio/dio.dart';
+//import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_chenji_ista_app/utils/flutter_screenutil.dart';
 import 'package:flutter_chenji_ista_app/utils/log_util.dart';
@@ -35,7 +35,7 @@ abstract class BaseWidget extends StatefulWidget {
 abstract class BaseWidgetState<T extends BaseWidget> extends State<T>
     with BaseFunction {
   ///取消网络请求
-  CancelToken cancelToken;
+//  CancelToken cancelToken;
 
   ///进度条是否显示
   bool isShowLoading = false;
@@ -56,7 +56,7 @@ abstract class BaseWidgetState<T extends BaseWidget> extends State<T>
   void initState() {
     isLiveActivity = true;
     state = this;
-    cancelToken = new CancelToken();
+//    cancelToken = new CancelToken();
     onCreate();
     super.initState();
   }

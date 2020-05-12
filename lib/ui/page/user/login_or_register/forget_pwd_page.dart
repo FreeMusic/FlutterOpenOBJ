@@ -343,17 +343,17 @@ class _ForgetPwdPageState extends BaseWidgetState<ForgetPwdPage> {
                 "captcha": controllerImageCode.text.toString(),
                 "uuid": SpUtil.getString(Constant.uuidimageUrl),
               };
-              NetWork.getInstans().smsCaptchas(params, (BaseModel model) {
-                //成功
-                if (model.code == 0) {
-                  _doCountDown();
-                  Navigator.pop(context); //关闭对话框
-                } else {
-                  showToast(model.msg);
-                }
-              }, (error) {
-                showToast(error);
-              });
+//              NetWork.getInstans().smsCaptchas(params, (BaseModel model) {
+//                //成功
+//                if (model.code == 0) {
+//                  _doCountDown();
+//                  Navigator.pop(context); //关闭对话框
+//                } else {
+//                  showToast(model.msg);
+//                }
+//              }, (error) {
+//                showToast(error);
+//              });
             },
           );
         });
@@ -397,15 +397,15 @@ class _ForgetPwdPageState extends BaseWidgetState<ForgetPwdPage> {
       "captcha": captchaCode,
       "uuid": SpUtil.getString(Constant.uuidimageUrl),
     };
-    NetWork.getInstans().updatePassword(params, (BaseModel model) {
-      if (model.code == 0) {
-        showToast("修改成功，请重新登录");
-        startAct(LoginPage());
-      } else {
-        showToast(model.msg);
-      }
-    }, (error) {
-      showToast(error.toString());
-    });
+//    NetWork.getInstans().updatePassword(params, (BaseModel model) {
+//      if (model.code == 0) {
+//        showToast("修改成功，请重新登录");
+//        startAct(LoginPage());
+//      } else {
+//        showToast(model.msg);
+//      }
+//    }, (error) {
+//      showToast(error.toString());
+//    });
   }
 }

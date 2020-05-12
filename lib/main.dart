@@ -9,11 +9,13 @@ import 'package:flutter_chenji_ista_app/utils/sp_util.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 
 void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
   runZoned(() {
     /// 强制竖屏
     SystemChrome.setPreferredOrientations(
         [DeviceOrientation.portraitDown, DeviceOrientation.portraitUp])
         .then((_) {
+
       runApp(MyApp());
 
       if (Platform.isAndroid) {

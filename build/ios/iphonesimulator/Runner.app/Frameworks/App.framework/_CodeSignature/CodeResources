@@ -14,11 +14,11 @@
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
-		PwBLU5dWIJ/KrOmKl4pvdSF9f3s=
+		xs/c+WV7/6jVXbSomAcBXwfqAOs=
 		</data>
 		<key>flutter_assets/LICENSE</key>
 		<data>
-		bkRDMBrmfrGqETzWYLLuvxL0EWA=
+		WXWNSv6qNxTuhKC44K0GRJKtiuY=
 		</data>
 		<key>flutter_assets/assets/images/guide1.png</key>
 		<data>
@@ -342,11 +342,11 @@
 		</data>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<data>
-		ywJe2YuqBLYSyxZwF+1O+1GedGQ=
+		KOMcQdw7AgysBT6dE5+xCfnnPFE=
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		5zRJOVy4gQ7xxN2RSbgM7uVYLOY=
+		7z7einjk3p3jK6IAqKR9tP/0QnU=
 		</data>
 		<key>flutter_assets/packages/amap_base_location/images/amap_end.png</key>
 		<data>
@@ -374,7 +374,7 @@
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
-		AlgKy1FbEPcZcd0kdJLLHtOy68I=
+		TdRNbRcrlXQQgeiweLFizPmk92g=
 		</data>
 		<key>flutter_assets/packages/jd_address_selector/assets/chinese_cities.json</key>
 		<data>
@@ -382,7 +382,7 @@
 		</data>
 		<key>flutter_assets/vm_snapshot_data</key>
 		<data>
-		f0NRnTh3hT62kaWEgCJgzyTEjd0=
+		yYi4BJdGlIFJfw4GiO1LmGm+lCo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -402,22 +402,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PwBLU5dWIJ/KrOmKl4pvdSF9f3s=
+			xs/c+WV7/6jVXbSomAcBXwfqAOs=
 			</data>
 			<key>hash2</key>
 			<data>
-			M7YXxk3KXgPBunexxraoSD3NTVXESHuSu6Yjkl+IrAU=
+			m+ENfRSlAPyHF+S38rI1MpniAKkdOv7OGNN8T3052Nk=
 			</data>
 		</dict>
 		<key>flutter_assets/LICENSE</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bkRDMBrmfrGqETzWYLLuvxL0EWA=
+			WXWNSv6qNxTuhKC44K0GRJKtiuY=
 			</data>
 			<key>hash2</key>
 			<data>
-			mq3ohB2KCyjYieC5op0BOpMK55Vsbt0AnpidRCB21Fg=
+			lgQokQKp5IFQzSszuEOaCtQ8pN3xU7qYX8AyejOcLrg=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/images/guide1.png</key>
@@ -1304,22 +1304,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ywJe2YuqBLYSyxZwF+1O+1GedGQ=
+			KOMcQdw7AgysBT6dE5+xCfnnPFE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y7/3VCd9eJji+3iQnZkVYNLJqLhr/vxNL9VdxTAWPyU=
+			QOJld01vOiDxU80o6RDzeF+EceRys0Pi6tMMfubyE+I=
 			</data>
 		</dict>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5zRJOVy4gQ7xxN2RSbgM7uVYLOY=
+			7z7einjk3p3jK6IAqKR9tP/0QnU=
 			</data>
 			<key>hash2</key>
 			<data>
-			YP/T4+DEdjyuCv1PukZ3W0b5QXgmFhWJa2H/aFbsLlw=
+			Cch6oVpUVnk/aL53OktwMvPZIB5hRXuXf7xXqfRezy4=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/amap_base_location/images/amap_end.png</key>
@@ -1392,11 +1392,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AlgKy1FbEPcZcd0kdJLLHtOy68I=
+			TdRNbRcrlXQQgeiweLFizPmk92g=
 			</data>
 			<key>hash2</key>
 			<data>
-			ETQZmaktT/cBMTCTNJd49hWX7HSYPa18vp5zuIwK13c=
+			d6fK2iHuml40zu1xSV3HnoE9PVFhQREGOzVfduySSBY=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/jd_address_selector/assets/chinese_cities.json</key>
@@ -1414,11 +1414,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			f0NRnTh3hT62kaWEgCJgzyTEjd0=
+			yYi4BJdGlIFJfw4GiO1LmGm+lCo=
 			</data>
 			<key>hash2</key>
 			<data>
-			fkbQA0tiXWUrAWLvJwqL5Wig4WRPKSqZgE1JofEZcLc=
+			uLRGf397YvghS2/Zfd0rKmwMBeVFmNC2kdtKq2REI5g=
 			</data>
 		</dict>
 	</dict>

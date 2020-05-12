@@ -220,19 +220,19 @@ class _LoginPagePageState extends BaseWidgetState<LoginPage> {
       "username": userPhone,
       "password": userPwd,
     };
-    NetWork.getInstans().loginUsers(params, (LoginModel model) {
-      if (model.code == 0) {
-        //成功
-        startAct(TabMainNavigator());
-        SpUtil.putString(Constant.keyUserToken, model.data);
-        SpUtil.putBool(Constant.isLogin, true);
-//        登录成功后 保存 头像
-        SpUtil.putString(Constant.userlogoUrl, ImageHelper.userlogo);
-      } else {
-        showToast(model.msg);
-      }
-    }, (error) {
-      showToast(error);
-    });
+//    NetWork.getInstans().loginUsers(params, (LoginModel model) {
+//      if (model.code == 0) {
+//        //成功
+//        startAct(TabMainNavigator());
+//        SpUtil.putString(Constant.keyUserToken, model.data);
+//        SpUtil.putBool(Constant.isLogin, true);
+////        登录成功后 保存 头像
+//        SpUtil.putString(Constant.userlogoUrl, ImageHelper.userlogo);
+//      } else {
+//        showToast(model.msg);
+//      }
+//    }, (error) {
+//      showToast(error);
+//    });
   }
 }
